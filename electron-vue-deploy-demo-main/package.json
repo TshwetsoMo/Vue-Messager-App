@@ -1,7 +1,7 @@
 {
   "name": "electron-deploy-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A demo Electron app with Vue, React, and Angular projects.",
   "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -14,7 +14,7 @@
     "make": "electron-forge make"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tshwetso K Mokgatlhe",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
